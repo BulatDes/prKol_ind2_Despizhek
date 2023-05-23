@@ -1,0 +1,11 @@
+D:\2 Семестр\Основы алг\prac_15\prac_15\bin\Debug\prac_15.exe.config
+D:\2 Семестр\Основы алг\prac_15\prac_15\bin\Debug\prac_15.exe
+D:\2 Семестр\Основы алг\prac_15\prac_15\bin\Debug\prac_15.pdb
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.csproj.AssemblyReference.cache
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.Form1.resources
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.Properties.Resources.resources
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.csproj.GenerateResource.cache
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.csproj.CoreCompileInputs.cache
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.exe
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.pdb
+D:\2 Семестр\Основы алг\prac_15\prac_15\obj\Debug\prac_15.csproj.SuggestedBindingRedirects.cache

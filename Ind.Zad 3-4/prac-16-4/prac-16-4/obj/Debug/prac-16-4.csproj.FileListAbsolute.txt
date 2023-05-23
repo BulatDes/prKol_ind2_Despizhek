@@ -1,0 +1,8 @@
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\bin\Debug\prac-16-4.exe.config
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\bin\Debug\prac-16-4.exe
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\bin\Debug\prac-16-4.pdb
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\obj\Debug\prac-16-4.csproj.AssemblyReference.cache
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\obj\Debug\prac-16-4.csproj.SuggestedBindingRedirects.cache
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\obj\Debug\prac-16-4.csproj.CoreCompileInputs.cache
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\obj\Debug\prac-16-4.exe
+D:\2 Семестр\Основы алг\prac-16-4\prac-16-4\obj\Debug\prac-16-4.pdb
